@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App Usage Tracker</string>
+    <string name="selected_item">Selected item:</string>
+
+    <string-array name="Day">
+        <item>Today</item>
+        <item>Yesterday</item>
+        <item>Week</item>
+        <item>Month</item>
+    </string-array>
+</resources>
